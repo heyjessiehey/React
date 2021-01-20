@@ -1,10 +1,12 @@
 .search {
     -webkit-appearance: none;
-    border: none;
+    border: 2px solid #ca9dc2;
+    border-radius: 15px;
     outline: none;
     padding: 10px;
     width: 150px;
     line-height: 30px;
     margin-bottom: 30px;
+    background: #f7f8ca;
   }
   
